@@ -32,11 +32,6 @@ npm run preview
 
 ## Data
 
-Starter word list is in `src/data/words.json`.
+Word list in `src/data/words.json`.
 
-You can replace it with your own list of words (strings). Definitions come from WordNet via `wordpos` + `wordnet-db` (client-side).
-
-## Licences / attributions
-
-- WordNet is provided by Princeton University under the WordNet licence.
-- The app code in this repo is MIT (you can choose another licence).
+Feel free to replace it with your own list of words (strings).
